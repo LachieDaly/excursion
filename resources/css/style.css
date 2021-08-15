@@ -1,16 +1,31 @@
 body {
+    font-family: 'Verdana';
+    color: white;
     background-color: black;
     text-align: center;
 }
 
 h1 {
-    font-family: 'Verdana';
+    
     font-weight: normal;
     font-size: 50px;
-    color: white;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
 }
 
 a {
     color: aquamarine;
     font-size: 16px;
+}
+
+.copyright {
+    text-align: right;
 }
